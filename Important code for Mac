@@ -1,0 +1,4 @@
+
+*********************************** Remove move to trash issue ***********************************
+sudo spctl --master-disable
+xattr -cr /Applications/Sketch.app
