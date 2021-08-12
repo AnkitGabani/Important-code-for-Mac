@@ -8,6 +8,13 @@ xattr -cr /Applications/Sketch.app
 
 
 *********************************** FirebaseCrashlytics ***********************************
+https://stackoverflow.com/questions/60821249/ios-and-firebasecrashlytics
+
+Run script %$$
+
+"${PODS_ROOT}/FirebaseCrashlytics/run"
+
+
 124
 
 Only and simple way to upload DSYMS files to Firebase Crashlytics. (April - 2021)
