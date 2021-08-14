@@ -5,6 +5,12 @@ xattr -cr /Applications/Sketch.app
 
 
 
+*********************************** Pod install issue for M1Cheap ***********************************
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+brew install cocoapods
+
 
 
 *********************************** FirebaseCrashlytics ***********************************
