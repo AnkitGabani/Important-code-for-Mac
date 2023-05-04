@@ -11,7 +11,8 @@ xattr -cr /Applications/Sketch.app
 
 brew install cocoapods
 
-
+sudo gem install cocoapods -v 1.10.2 
+--> If any got issue =, change version
 
 *********************************** FirebaseCrashlytics ***********************************
 https://stackoverflow.com/questions/60821249/ios-and-firebasecrashlytics
